@@ -5,9 +5,7 @@ import java.util.ArrayList;
 
 public class JavaApplication14 {
 
-    /**
-     * @param args the command line arguments
-     */
+    
     public static void main(String[] args) {
         ArrayList<Integer> p= new ArrayList <>();
         int sum=0;
@@ -19,7 +17,7 @@ public class JavaApplication14 {
         System.out.println(sum) ;
         p.remove(9) ;
         System.out.println(p) ;
-         p.add(70) ;
+         p.add(80) ;
           System.out.println(p) ;
         // TODO code application logic here
     }
