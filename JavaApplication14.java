@@ -19,6 +19,8 @@ public class JavaApplication14 {
         System.out.println(sum);
         p.remove(9);
         System.out.println(p);
+         p.add(70);
+          System.out.println(p);
         // TODO code application logic here
     }
     
