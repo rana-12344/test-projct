@@ -21,5 +21,5 @@ public class JavaApplication14 {
           System.out.println(p) ;
         // TODO code application logic here
     }
-    
+    System.out.println("Hi");
 }
